@@ -1,2 +1,5 @@
-# Project exclude paths
-/springboot_access_log/target/
+/.idea/
+/*/*.iml
+/*/*/*.iml
+/*/target
+/*/*/target
