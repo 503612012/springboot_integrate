@@ -18,6 +18,7 @@
 
     <modules>
         <module>springboot_access_log</module>
+        <module>springboot_activemq</module>
     </modules>
 
     <build>
