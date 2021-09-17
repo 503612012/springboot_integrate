@@ -20,6 +20,7 @@
         <module>springboot_access_log</module>
         <module>springboot_activemq</module>
         <module>springboot_actuator</module>
+        <module>springboot_admin</module>
     </modules>
 
     <build>
