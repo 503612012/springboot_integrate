@@ -21,6 +21,7 @@
         <module>springboot_activemq</module>
         <module>springboot_actuator</module>
         <module>springboot_admin</module>
+        <module>springboot_apidoc</module>
     </modules>
 
     <build>
