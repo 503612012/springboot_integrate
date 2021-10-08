@@ -22,6 +22,7 @@
         <module>springboot_actuator</module>
         <module>springboot_admin</module>
         <module>springboot_apidoc</module>
+        <module>springboot_argumentResolver</module>
     </modules>
 
     <build>
