@@ -23,6 +23,7 @@
         <module>springboot_admin</module>
         <module>springboot_apidoc</module>
         <module>springboot_argumentResolver</module>
+        <module>springboot_async</module>
     </modules>
 
     <build>
