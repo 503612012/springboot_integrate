@@ -28,6 +28,7 @@
         <module>springboot_cache_ehcache</module>
         <module>springboot_cache_guava</module>
         <module>springboot_cache_redis</module>
+        <module>springboot_cache_spring</module>
     </modules>
 
     <build>
