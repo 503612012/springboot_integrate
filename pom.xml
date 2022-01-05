@@ -29,6 +29,7 @@
         <module>springboot_cache_guava</module>
         <module>springboot_cache_redis</module>
         <module>springboot_cache_spring</module>
+        <module>springboot_commandLineRunner</module>
     </modules>
 
     <build>
