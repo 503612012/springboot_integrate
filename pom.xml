@@ -31,6 +31,7 @@
         <module>springboot_cache_spring</module>
         <module>springboot_commandLineRunner</module>
         <module>springboot_dateformat</module>
+        <module>springboot_devtools</module>
     </modules>
 
     <build>
