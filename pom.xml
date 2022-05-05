@@ -36,6 +36,7 @@
         <module>springboot_druid_monitor</module>
         <module>springboot_dubbo</module>
         <module>springboot_dynamic_schedule</module>
+        <module>springboot_easypoi</module>
     </modules>
 
     <build>
