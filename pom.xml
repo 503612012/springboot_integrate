@@ -37,6 +37,7 @@
         <module>springboot_dubbo</module>
         <module>springboot_dynamic_schedule</module>
         <module>springboot_easypoi</module>
+        <module>springboot_elasticjob</module>
     </modules>
 
     <build>
