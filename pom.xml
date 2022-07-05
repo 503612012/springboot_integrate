@@ -40,6 +40,7 @@
         <module>springboot_elasticjob</module>
         <module>springboot_elk</module>
         <module>springboot_email</module>
+        <module>springboot_esper</module>
     </modules>
 
     <build>
