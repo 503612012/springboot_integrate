@@ -41,6 +41,7 @@
         <module>springboot_elk</module>
         <module>springboot_email</module>
         <module>springboot_esper</module>
+        <module>springboot_event</module>
     </modules>
 
     <build>
