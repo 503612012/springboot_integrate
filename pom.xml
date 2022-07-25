@@ -42,6 +42,7 @@
         <module>springboot_email</module>
         <module>springboot_esper</module>
         <module>springboot_event</module>
+        <module>springboot_exception</module>
     </modules>
 
     <build>
